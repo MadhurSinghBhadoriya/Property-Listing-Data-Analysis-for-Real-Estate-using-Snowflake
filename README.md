@@ -28,9 +28,7 @@ Technologies Used:
     Data Transformation: SQL, Python, Google Sheets.
     Data Analysis and Reporting: SQL.
 
-Role and Responsibilities:
-
-    Led the entire project lifecycle from data scraping to report generation.
+    Entire project lifecycle from data scraping to report generation.
     Developed and maintained ETL processes to ensure data integrity and efficient retrieval.
     Transformed and translated data to make it more accessible and useful for analysis.
     Built comprehensive reports to provide actionable insights into the property market.
